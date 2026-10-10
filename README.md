@@ -1,2 +1,7 @@
-# metodologia-computacion-2026
-Repositorio de actividades de Metodología de la Investigación – Ciclo 4 | Computación
+# Metodología de la Investigación
+
+Repositorio con las actividades del ciclo de la materia
+Metodología de la Investigación.
+
+- **Carrera:** Computación
+- **Ciclo:** 4
